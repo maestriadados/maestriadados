@@ -22,9 +22,6 @@
   <ol>
     <li>
       <a href="#Sobre o Projeto">Sobre o Projeto</a>
-      <ul>
-        <li><a href="#Ideais">Idealizando a comunidade</a></li>
-      </ul>
     </li>
     <li><a href="#Pilares">Códigos</a></li>
     <li><a href="#Canais">Artigos</a></li>
