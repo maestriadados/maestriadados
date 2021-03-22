@@ -25,7 +25,7 @@
     </li>
     <li><a href="#Pilares">Pilares</a></li>
     <li><a href="#Canais">Canais</a></li>
-    <li><a href="#Contato">Contato</a></li>
+    <li><a href="#Contatos">Contatos</a></li>
   </ol>
 </details>
 
