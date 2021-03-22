@@ -1,18 +1,3 @@
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -79,27 +64,15 @@ A comunidade tem sua base em alguns pilares:
 
 💎 Acompanhe o Maestria Dados 💎
 
-• YouTube » https://lnkd.in/db2k7gz
-• Site » https://lnkd.in/dAFjHHf
-• Instagram » https://lnkd.in/dhXEnhU
-• Facebook » https://lnkd.in/da6W2SH
-• Twitter » https://lnkd.in/d4u_yaB
+
+1. YouTube » https://lnkd.in/db2k7gz
+2. Site » https://lnkd.in/dAFjHHf
+3. Instagram » https://lnkd.in/dhXEnhU
+4. Facebook » https://lnkd.in/da6W2SH
+5. Twitter » https://lnkd.in/d4u_yaB
+
 
 <!-- CONTRIBUTING -->
 ## Contatos
 
 EMAIL : maestriadados@gmail.com
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/maestriadados/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/maestriadados/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/maestriadados/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/maestriadados/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/maestriadados/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/maestriadados/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/maestriadados/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/maestriadados/repo/issues
-[license-shield]: https://img.shields.io/github/license/maestriadados/repo.svg?style=for-the-badge
-[license-url]: https://github.com/maestriadados/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
